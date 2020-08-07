@@ -11,3 +11,5 @@ class Dog
      puts "Woof!"
    end
 end
+
+puts Dog.bark
